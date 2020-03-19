@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="input_weight_hint">体重(公斤)</string>
+    <string name="input_height_hint">身高(米)</string>
+    <string name="btn_compute_text">计算 BMI</string>
+    <string name="btn_save_text">保存</string>
+</resources>
