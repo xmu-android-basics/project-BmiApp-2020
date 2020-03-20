@@ -40,11 +40,11 @@
         app:layout_constraintTop_toBottomOf="@+id/input_height" />
 
     <Button
-        android:id="@+id/button_save"
+        android:id="@+id/button_history"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:onClick="onSaveClick"
-        android:text="@string/btn_save_text"
+        android:onClick="onHistoryClick"
+        android:text="@string/btn_history_text"
         app:layout_constraintEnd_toEndOf="@id/input_weight"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_compute" />
